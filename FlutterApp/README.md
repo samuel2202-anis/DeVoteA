@@ -25,7 +25,7 @@ To run the Devote app on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/devote.git
+   git clone https://github.com/Kiro369/DeVote:master/FlutterApp.git
    ```
 2. Install dependencies:
    ```bash
